@@ -1,0 +1,101 @@
+"transaction_id";"transaction_date";"product_name";"category";"quantity";"unit_price";"currency";"country";"total_revenue_zar"
+"TXN-1001";"2026-03-01";"Organic Whole Milk 2L";"Dairy";2;45.5;"ZAR";"South Africa";91.0
+"TXN-1002";"2026-03-15";"Maize Meal 10Kg";"Groceries";1;120.0;"BWP";"Botswana";120.0
+"TXN-1003";"2026-03-18";"Canned Baked Beans 410G";"Groceries";6;18.99;"NAD";"Namibia";113.94
+"TXN-1004";"";"Sunflower Cooking Oil 2L";"Groceries";2;85.0;"ZMW";"Zambia";170.0
+"TXN-1005";"2026-03-25";"Washing Powder 2Kg";"Household";0;45.0;"USD";"Zimbabwe";0.0
+"TXN-1006";"2026-03-28";"Brown Bread 700G";"Bakery";3;19.99;"ZAR";"South Africa";59.97
+"TXN-1007";"2026-04-02";"Cheddar Cheese 500G";"Dairy";1;79.5;"BWP";"Botswana";79.5
+"TXN-1008";"2026-05-04";"Sparkling Water 1.5L";"Beverages";12;12.5;"NAD";"Namibia";150.0
+"TXN-1009";"2026-04-10";"Instant Noodles Pack";"Groceries";20;5.0;"ZMW";"Zambia";100.0
+"TXN-1010";"";"Energizing Drink 500Ml";"Beverages";4;2.5;"USD";"Zimbabwe";10.0
+"TXN-1011";"2026-04-19";"Orange Juice 1L";"Beverages";2;34.0;"ZAR";"South Africa";68.0
+"TXN-1012";"2026-04-19";"White Sugar 2.5Kg";"Groceries";3;45.0;"BWP";"Botswana";135.0
+"TXN-1013";"2026-04-22";"Dishwashing Liquid 750Ml";"Household";1;32.0;"NAD";"Namibia";32.0
+"TXN-1014";"2026-04-28";"Maize Meal 5Kg";"Groceries";2;65.0;"ZMW";"Zambia";130.0
+"TXN-1015";"2026-05-01";"Long Life Milk 1L";"Dairy";6;1.8;"USD";"Zimbabwe";10.8
+"TXN-1016";"2026-05-04";"Yogurt Plain 1Kg";"Dairy";2;39.99;"ZAR";"South Africa";79.98
+"TXN-1017";"2026-05-10";"Chicken Portions 2Kg";"Meat";1;95.0;"BWP";"Botswana";95.0
+"TXN-1018";"2026-05-12";"Toilet Paper 9Pack";"Household";4;89.99;"NAD";"Namibia";359.96
+"TXN-1019";"";"Beef Sausages 1Kg";"Meat";2;75.0;"ZMW";"Zambia";150.0
+"TXN-1020";"2026-05-18";"Rice 2Kg";"Groceries";3;3.2;"USD";"Zimbabwe";9.6
+"TXN-1021";"2026-05-20";"Maas 2L";"Dairy";3;36.5;"ZAR";"South Africa";109.5
+"TXN-1022";"2026-05-22";"Tomato Paste 200G";"Groceries";5;14.5;"BWP";"Botswana";72.5
+"TXN-1023";"2026-05-25";"All Purpose Cleaner 1L";"Household";2;42.0;"NAD";"Namibia";84.0
+"TXN-1024";"";"Instant Coffee 250G";"Beverages";1;95.0;"ZMW";"Zambia";95.0
+"TXN-1025";"2026-06-01";"Cooking Oil 750Ml";"Groceries";4;2.5;"USD";"Zimbabwe";10.0
+"TXN-1026";"2026-06-03";"Sliced Brown Bread";"Bakery";2;18.5;"ZAR";"South Africa";37.0
+"TXN-1027";"2026-06-06";"Sorghum Meal 5Kg";"Groceries";0;78.0;"BWP";"Botswana";0.0
+"TXN-1028";"2026-06-09";"Canned Pilchards 400G";"Groceries";8;22.5;"NAD";"Namibia";180.0
+"TXN-1029";"";"Maize Grain 25Kg";"Groceries";1;180.0;"ZMW";"Zambia";180.0
+"TXN-1030";"2026-06-15";"Bottled Water 5L";"Beverages";3;1.5;"USD";"Zimbabwe";4.5
+"TXN-1031";"2026-06-18";"Pasteurized Milk 1L";"Dairy";4;22.0;"ZAR";"South Africa";88.0
+"TXN-1032";"2026-06-19";"Beef Stewing Meat 1Kg";"Meat";2;115.0;"BWP";"Botswana";230.0
+"TXN-1033";"2026-06-22";"Bleach 750Ml";"Household";3;24.0;"NAD";"Namibia";72.0
+"TXN-1034";"";"Bream Fish Fresh 1Kg";"Meat";1;60.0;"ZMW";"Zambia";60.0
+"TXN-1035";"2026-06-28";"Flour 2Kg";"Groceries";5;2.8;"USD";"Zimbabwe";14.0
+"TXN-1036";"2026-07-01";"Cheddar Cheese Block 850G";"Dairy";1;110.0;"ZAR";"South Africa";110.0
+"TXN-1037";"2026-07-03";"Instant Yeast 10G";"Groceries";10;4.5;"BWP";"Botswana";45.0
+"TXN-1038";"2026-07-06";"Apple Juice 1.5L";"Beverages";2;32.5;"NAD";"Namibia";65.0
+"TXN-1039";"";"Peanut Butter 400G";"Groceries";3;45.0;"ZMW";"Zambia";135.0
+"TXN-1040";"2026-07-12";"Bar Soap 500G";"Household";4;1.2;"USD";"Zimbabwe";4.8
+"TXN-1041";"2026-07-15";"Garlic 250G Net";"Groceries";2;14.99;"ZAR";"South Africa";29.98
+"TXN-1042";"2026-07-16";"Potatoes 5Kg Pocket";"Groceries";1;65.0;"BWP";"Botswana";65.0
+"TXN-1043";"2026-07-19";"Onions 1Kg Bag";"Groceries";3;19.5;"NAD";"Namibia";58.5
+"TXN-1044";"";"Tomatoes Fresh 1Kg";"Groceries";4;22.0;"ZMW";"Zambia";88.0
+"TXN-1045";"2026-07-25";"Cabbage Head";"Groceries";2;1.0;"USD";"Zimbabwe";2.0
+"TXN-1046";"2026-07-28";"Bananas 1Kg Bunch";"Groceries";3;24.99;"ZAR";"South Africa";74.97
+"TXN-1047";"2026-07-30";"Apples Royal Gala 1.5Kg";"Groceries";2;42.0;"BWP";"Botswana";84.0
+"TXN-1048";"2026-08-02";"Oranges 2Kg Bag";"Groceries";1;38.5;"NAD";"Namibia";38.5
+"TXN-1049";"";"Mixed Vegetables Frozen 1Kg";"Groceries";2;55.0;"ZMW";"Zambia";110.0
+"TXN-1050";"2026-08-08";"Tea Bags 100S";"Groceries";1;3.5;"USD";"Zimbabwe";3.5
+"TXN-1051";"2026-08-11";"Instant Coffee 200G";"Beverages";1;89.99;"ZAR";"South Africa";89.99
+"TXN-1052";"2026-08-12";"Long Life Milk 1L";"Dairy";6;18.5;"BWP";"Botswana";111.0
+"TXN-1053";"2026-08-15";"Butter Salted 500G";"Dairy";2;79.0;"NAD";"Namibia";158.0
+"TXN-1054";"";"Energy Drink 400Ml";"Beverages";0;12.0;"ZMW";"Zambia";0.0
+"TXN-1055";"2026-08-21";"Biscuits Digestive 400G";"Groceries";4;1.8;"USD";"Zimbabwe";7.2
+"TXN-1056";"2026-08-24";"Sunflower Oil 750Ml";"Groceries";2;38.0;"ZAR";"South Africa";76.0
+"TXN-1057";"2026-08-26";"White Bread 700G";"Bakery";3;15.0;"BWP";"Botswana";45.0
+"TXN-1058";"2026-08-29";"Corn Flakes 1Kg";"Groceries";1;54.99;"NAD";"Namibia";54.99
+"TXN-1059";"";"Spaghetti 500G";"Groceries";5;16.5;"ZMW";"Zambia";82.5
+"TXN-1060";"2026-09-04";"Toothpaste 100Ml";"Household";2;1.5;"USD";"Zimbabwe";3.0
+"TXN-1061";"2026-09-07";"Shampoo 400Ml";"Household";1;49.99;"ZAR";"South Africa";49.99
+"TXN-1062";"2026-09-08";"Bath Soap Bar";"Household";5;9.5;"BWP";"Botswana";47.5
+"TXN-1063";"2026-09-11";"Laundry Detergent 2Kg";"Household";1;85.0;"NAD";"Namibia";85.0
+"TXN-1064";"";"Dishwash Paste 500G";"Household";3;25.0;"ZMW";"Zambia";75.0
+"TXN-1065";"2026-09-17";"Instant Noodles 5Pack";"Groceries";6;2.0;"USD";"Zimbabwe";12.0
+"TXN-1066";"2026-09-20";"Margarine 500G";"Dairy";2;34.99;"ZAR";"South Africa";69.98
+"TXN-1067";"2026-09-21";"Canned Tuna 170G";"Groceries";4;21.0;"BWP";"Botswana";84.0
+"TXN-1068";"2026-09-24";"Mince Beef 1Kg";"Meat";1;98.5;"NAD";"Namibia";98.5
+"TXN-1069";"";"Chicken Whole Fresh";"Meat";2;85.0;"ZMW";"Zambia";170.0
+"TXN-1070";"2026-09-30";"Cooking Salt 1Kg";"Groceries";3;0.8;"USD";"Zimbabwe";2.4
+"TXN-1071";"2026-10-01";"Full Cream Milk 2L";"Dairy";3;44.99;"ZAR";"South Africa";134.97
+"TXN-1072";"2026-10-02";"Brown Bread";"Bakery";2;16.5;"BWP";"Botswana";33.0
+"TXN-1073";"2026-10-03";"Soda Drink 2L";"Beverages";6;22.0;"NAD";"Namibia";132.0
+"TXN-1074";"";"Energy Drink 500Ml";"Beverages";4;14.0;"ZMW";"Zambia";56.0
+"TXN-1075";"2026-10-05";"Beef Polony 1Kg";"Meat";1;3.5;"USD";"Zimbabwe";3.5
+"TXN-1076";"2026-10-06";"Plain Yogurt 500G";"Dairy";2;26.5;"ZAR";"South Africa";53.0
+"TXN-1077";"2026-10-07";"Maize Meal 2.5Kg";"Groceries";0;35.0;"BWP";"Botswana";0.0
+"TXN-1078";"2026-10-08";"Washing Powder 1Kg";"Household";2;45.0;"NAD";"Namibia";90.0
+"TXN-1079";"";"White Sugar 1Kg";"Groceries";3;28.0;"ZMW";"Zambia";84.0
+"TXN-1080";"2026-10-10";"Rice 1Kg";"Groceries";5;1.7;"USD";"Zimbabwe";8.5
+"TXN-1081";"2026-10-11";"Eggs 30 Pack";"Dairy";1;89.99;"ZAR";"South Africa";89.99
+"TXN-1082";"2026-10-12";"Cheddar Cheese 250G";"Dairy";2;42.0;"BWP";"Botswana";84.0
+"TXN-1083";"2026-10-13";"Baked Beans 300G";"Groceries";4;15.5;"NAD";"Namibia";62.0
+"TXN-1084";"";"Cooking Oil 1L";"Groceries";2;48.0;"ZMW";"Zambia";96.0
+"TXN-1085";"2026-10-15";"Maize Meal 10Kg";"Groceries";1;7.5;"USD";"Zimbabwe";7.5
+"TXN-1086";"2026-10-16";"Apple Juice 1L";"Beverages";3;29.99;"ZAR";"South Africa";89.97
+"TXN-1087";"2026-10-17";"Orange Juice 1L";"Beverages";2;25.0;"BWP";"Botswana";50.0
+"TXN-1088";"2026-10-18";"Bottled Water 500Ml";"Beverages";12;7.5;"NAD";"Namibia";90.0
+"TXN-1089";"";"Biscuits Cream 200G";"Groceries";4;18.0;"ZMW";"Zambia";72.0
+"TXN-1090";"2026-10-20";"Canned Pilchards";"Groceries";3;1.9;"USD";"Zimbabwe";5.7
+"TXN-1091";"2026-10-21";"Butter Spread 1Kg";"Dairy";1;94.5;"ZAR";"South Africa";94.5
+"TXN-1092";"2026-10-22";"Frozen Mixed Veg 500G";"Groceries";3;19.0;"BWP";"Botswana";57.0
+"TXN-1093";"2026-10-23";"Toilet Paper 2Ply 4Pack";"Household";2;39.99;"NAD";"Namibia";79.98
+"TXN-1094";"";"Beef Liver 1Kg";"Meat";1;55.0;"ZMW";"Zambia";55.0
+"TXN-1095";"2026-10-25";"Milk Long Life 500Ml";"Dairy";4;0.9;"USD";"Zimbabwe";3.6
+"TXN-1096";"2026-10-26";"White Bread 700G";"Bakery";2;19.99;"ZAR";"South Africa";39.98
+"TXN-1097";"2026-10-27";"Laundry Soap 1Kg";"Household";1;28.0;"BWP";"Botswana";28.0
+"TXN-1098";"2026-10-28";"Shampoo Herbal 250Ml";"Household";2;42.5;"NAD";"Namibia";85.0
+"TXN-1099";"";"Tea Bags 50S";"Groceries";1;22.0;"ZMW";"Zambia";22.0
+"TXN-1100";"2026-10-30";"Bar Soap Green";"Household";3;0.75;"USD";"Zimbabwe";2.25

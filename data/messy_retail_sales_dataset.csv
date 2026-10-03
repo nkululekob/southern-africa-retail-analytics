@@ -1,0 +1,101 @@
+transaction_id,date,country,store_id,product_name,category,quantity,unit_price,currency,payment_method,customer_id
+TXN-1001,2026-03-01,South Africa,JHB-01,Organic Whole Milk 2L,Dairy,2,45.5,ZAR,Credit Card,CUST_8821
+TXN-1002,15/03/2026,Botswana,GBE-04,maize meal 10kg,Groceries,1,120,BWP,Cash,CUST_4412
+TXN-1003,2026-03-18,Namibia,WDH-02,Canned Baked Beans 410g,Groceries,6,18.99,NAD,Mobile Money,
+TXN-1004,March 22 2026,Zambia,LUN-03,Sunflower Cooking Oil 2L,Groceries,-2,85,ZMW,Cash,CUST_9910
+TXN-1005,2026/03/25,Zimbabwe,HRE-01,Washing Powder 2kg,Household,,45,USD,Credit Card,CUST_1102
+TXN-1006,2026-03-28,South Africa,DBN-05,Brown Bread 700g,Bakery,3,19.99,ZAR,Debit Card,CUST_5521
+TXN-1007,2026-04-02,Botswana,GBE-02,Cheddar Cheese 500g,dairy,1,79.5,BWP,Credit Card,CUST_3322
+TXN-1008,04/05/2026,Namibia,SWP-01,Sparkling Water 1.5L,Beverages,12,12.5,NAD,Cash,CUST_7741
+TXN-1009,2026-04-10,Zambia,NDL-02,Instant Noodles Pack,Groceries,20,5,ZMW,Mobile Money,N/A
+TXN-1010,April 14 2026,Zimbabwe,BYO-03,Energizing Drink 500ml,beverages,4,2.5,USD,Cash,CUST_8812
+TXN-1011,2026-04-19,South Africa,CPT-01,ORANGE JUICE 1L,Beverages,2,34,ZAR,Debit Card,CUST_1290
+TXN-1012,19/04/2026,Botswana,GBE-01,White Sugar 2.5kg,Groceries,3,45,BWP,Cash,CUST_6633
+TXN-1013,2026-04-22,Namibia,WDH-03,Dishwashing Liquid 750ml,Household,1,32,NAD,Credit Card,
+TXN-1014,2026-04-28,Zambia,LUN-01,Maize Meal 5kg,groceries,2,65,ZMW,Mobile Money,CUST_3301
+TXN-1015,2026/05/01,Zimbabwe,HRE-02,Long Life Milk 1L,Dairy,6,1.8,USD,Cash,CUST_9988
+TXN-1016,2026-05-04,South Africa,JHB-02,Yogurt Plain 1kg,dairy,2,39.99,ZAR,Credit Card,CUST_5511
+TXN-1017,10/05/2026,Botswana,GBE-03,Chicken Portions 2kg,Meat,1,95,BWP,Cash,CUST_2210
+TXN-1018,2026-05-12,Namibia,WDH-01,Toilet Paper 9Pack,Household,4,89.99,NAD,Debit Card,CUST_4490
+TXN-1019,May 15 2026,Zambia,LUN-02,Beef Sausages 1kg,meat,2,75,ZMW,Mobile Money,N/A
+TXN-1020,2026/05/18,Zimbabwe,HRE-03,Rice 2kg,Groceries,3,3.2,USD,Credit Card,CUST_1002
+TXN-1021,2026-05-20,South Africa,PTA-01,MAAS 2L,Dairy,3,36.5,ZAR,Cash,CUST_1122
+TXN-1022,22/05/2026,Botswana,GBE-01,Tomato Paste 200g,Groceries,5,14.5,BWP,Credit Card,CUST_3344
+TXN-1023,2026-05-25,Namibia,WDH-04,All Purpose Cleaner 1L,Household,2,42,NAD,Debit Card,
+TXN-1024,May 28 2026,Zambia,LUN-04,Instant Coffee 250g,Beverages,1,95,ZMW,Mobile Money,CUST_5566
+TXN-1025,2026/06/01,Zimbabwe,MUT-01,Cooking Oil 750ml,Groceries,4,2.5,USD,Cash,N/A
+TXN-1026,2026-06-03,South Africa,JHB-03,Sliced Brown Bread,bakery,2,18.5,ZAR,Credit Card,CUST_7788
+TXN-1027,06/06/2026,Botswana,GBE-02,Sorghum Meal 5kg,Groceries,,78,BWP,Cash,CUST_9900
+TXN-1028,2026-06-09,Namibia,SWP-02,Canned Pilchards 400g,Groceries,8,22.5,NAD,Mobile Money,CUST_1234
+TXN-1029,June 12 2026,Zambia,NDL-01,Maize Grain 25kg,Groceries,1,180,ZMW,Cash,
+TXN-1030,2026/06/15,Zimbabwe,HRE-01,Bottled Water 5L,Beverages,3,1.5,USD,Debit Card,CUST_5678
+TXN-1031,2026-06-18,South Africa,DBN-01,PASTEURIZED MILK 1L,dairy,4,22,ZAR,Credit Card,CUST_9012
+TXN-1032,19/06/2026,Botswana,GBE-03,Beef Stewing Meat 1kg,Meat,2,115,BWP,Cash,CUST_3456
+TXN-1033,2026-06-22,Namibia,WDH-01,Bleach 750ml,Household,3,24,NAD,Credit Card,N/A
+TXN-1034,June 25 2026,Zambia,LUN-02,Bream Fish Fresh 1kg,Meat,-1,60,ZMW,Mobile Money,CUST_7890
+TXN-1035,2026/06/28,Zimbabwe,BYO-01,Flour 2kg,Groceries,5,2.8,USD,Cash,CUST_2468
+TXN-1036,2026-07-01,South Africa,CPT-02,Cheddar Cheese Block 850g,Dairy,1,110,ZAR,Debit Card,CUST_1357
+TXN-1037,03/07/2026,Botswana,GBE-04,Instant Yeast 10g,Groceries,10,4.5,BWP,Cash,
+TXN-1038,2026-07-06,Namibia,WDH-02,Apple Juice 1.5L,Beverages,2,32.5,NAD,Credit Card,CUST_3579
+TXN-1039,July 09 2026,Zambia,LUN-03,Peanut Butter 400g,Groceries,3,45,ZMW,Mobile Money,CUST_4680
+TXN-1040,2026/07/12,Zimbabwe,HRE-02,Bar Soap 500g,Household,4,1.2,USD,Cash,N/A
+TXN-1041,2026-07-15,South Africa,JHB-01,Garlic 250g Net,Groceries,2,14.99,ZAR,Credit Card,CUST_5791
+TXN-1042,16/07/2026,Botswana,GBE-01,Potatoes 5kg Pocket,Groceries,1,65,BWP,Cash,CUST_6802
+TXN-1043,2026-07-19,Namibia,SWP-01,Onions 1kg Bag,Groceries,3,19.5,NAD,Debit Card,CUST_7913
+TXN-1044,July 22 2026,Zambia,NDL-02,Tomatoes Fresh 1kg,groceries,4,22,ZMW,Mobile Money,
+TXN-1045,2026/07/25,Zimbabwe,BYO-02,Cabbage Head,Groceries,2,1,USD,Cash,CUST_8024
+TXN-1046,2026-07-28,South Africa,DBN-02,Bananas 1kg Bunch,Groceries,3,24.99,ZAR,Credit Card,CUST_9135
+TXN-1047,30/07/2026,Botswana,GBE-02,Apples Royal Gala 1.5kg,Groceries,2,42,BWP,Cash,CUST_1046
+TXN-1048,2026-08-02,Namibia,WDH-03,Oranges 2kg Bag,Groceries,1,38.5,NAD,Credit Card,CUST_2157
+TXN-1049,August 05 2026,Zambia,LUN-01,Mixed Vegetables Frozen 1kg,Groceries,2,55,ZMW,Mobile Money,N/A
+TXN-1050,2026/08/08,Zimbabwe,HRE-03,Tea Bags 100s,Groceries,1,3.5,USD,Cash,CUST_3268
+TXN-1051,2026-08-11,South Africa,PTA-01,Instant Coffee 200g,Beverages,1,89.99,ZAR,Debit Card,CUST_4379
+TXN-1052,12/08/2026,Botswana,GBE-03,Long Life Milk 1L,Dairy,6,18.5,BWP,Cash,
+TXN-1053,2026-08-15,Namibia,WDH-04,Butter Salted 500g,Dairy,2,79,NAD,Credit Card,CUST_5480
+TXN-1054,August 18 2026,Zambia,LUN-04,Energy Drink 400ml,Beverages,,12,ZMW,Mobile Money,CUST_6591
+TXN-1055,2026/08/21,Zimbabwe,MUT-01,Biscuits Digestive 400g,Groceries,4,1.8,USD,Cash,CUST_7602
+TXN-1056,2026-08-24,South Africa,JHB-02,Sunflower Oil 750ml,Groceries,2,38,ZAR,Credit Card,CUST_8713
+TXN-1057,26/08/2026,Botswana,GBE-04,White Bread 700g,Bakery,3,15,BWP,Cash,CUST_9824
+TXN-1058,2026-08-29,Namibia,SWP-02,Corn Flakes 1kg,Groceries,1,54.99,NAD,Debit Card,N/A
+TXN-1059,September 01 2026,Zambia,NDL-01,Spaghetti 500g,Groceries,5,16.5,ZMW,Mobile Money,CUST_1935
+TXN-1060,2026/09/04,Zimbabwe,HRE-01,Toothpaste 100ml,Household,2,1.5,USD,Cash,CUST_2046
+TXN-1061,2026-09-07,South Africa,CPT-01,Shampoo 400ml,Household,1,49.99,ZAR,Credit Card,
+TXN-1062,08/09/2026,Botswana,GBE-01,Bath Soap Bar,Household,5,9.5,BWP,Cash,CUST_3157
+TXN-1063,2026-09-11,Namibia,WDH-01,Laundry Detergent 2kg,Household,1,85,NAD,Credit Card,CUST_4268
+TXN-1064,September 14 2026,Zambia,LUN-02,Dishwash Paste 500g,Household,3,25,ZMW,Mobile Money,CUST_5379
+TXN-1065,2026/09/17,Zimbabwe,BYO-03,Instant Noodles 5Pack,Groceries,6,2,USD,Cash,N/A
+TXN-1066,2026-09-20,South Africa,DBN-05,Margarine 500g,Dairy,2,34.99,ZAR,Debit Card,CUST_6480
+TXN-1067,21/09/2026,Botswana,GBE-02,Canned Tuna 170g,Groceries,4,21,BWP,Cash,CUST_7591
+TXN-1068,2026-09-24,Namibia,WDH-02,Mince Beef 1kg,Meat,1,98.5,NAD,Credit Card,CUST_8602
+TXN-1069,September 27 2026,Zambia,LUN-03,Chicken Whole Fresh,meat,-2,85,ZMW,Mobile Money,CUST_9713
+TXN-1070,2026/09/30,Zimbabwe,HRE-02,Cooking Salt 1kg,Groceries,3,0.8,USD,Cash,CUST_1824
+TXN-1071,2026-10-01,South Africa,JHB-03,Full Cream Milk 2L,Dairy,3,44.99,ZAR,Credit Card,
+TXN-1072,02/10/2026,Botswana,GBE-03,Brown Bread,bakery,2,16.5,BWP,Cash,CUST_2935
+TXN-1073,2026-10-03,Namibia,SWP-01,Soda Drink 2L,Beverages,6,22,NAD,Debit Card,CUST_4046
+TXN-1074,October 04 2026,Zambia,NDL-02,Energy Drink 500ml,beverages,4,14,ZMW,Mobile Money,N/A
+TXN-1075,2026/10/05,Zimbabwe,BYO-01,Beef Polony 1kg,Meat,1,3.5,USD,Cash,CUST_5157
+TXN-1076,2026-10-06,South Africa,CPT-02,Plain Yogurt 500g,Dairy,2,26.5,ZAR,Credit Card,CUST_6268
+TXN-1077,07/10/2026,Botswana,GBE-04,Maize Meal 2.5kg,Groceries,,35,BWP,Cash,CUST_7379
+TXN-1078,2026-10-08,Namibia,WDH-03,Washing Powder 1kg,Household,2,45,NAD,Credit Card,CUST_8480
+TXN-1079,October 09 2026,Zambia,LUN-01,White Sugar 1kg,Groceries,3,28,ZMW,Mobile Money,
+TXN-1080,2026/10/10,Zimbabwe,HRE-03,Rice 1kg,Groceries,5,1.7,USD,Cash,CUST_9591
+TXN-1081,2026-10-11,South Africa,DBN-01,Eggs 30 Pack,Dairy,1,89.99,ZAR,Debit Card,CUST_1702
+TXN-1082,12/10/2026,Botswana,GBE-01,Cheddar Cheese 250g,Dairy,2,42,BWP,Cash,CUST_2813
+TXN-1083,2026-10-13,Namibia,WDH-04,Baked Beans 300g,Groceries,4,15.5,NAD,Credit Card,N/A
+TXN-1084,October 14 2026,Zambia,LUN-04,Cooking Oil 1L,Groceries,2,48,ZMW,Mobile Money,CUST_3924
+TXN-1085,2026/10/15,Zimbabwe,MUT-01,Maize Meal 10kg,Groceries,1,7.5,USD,Cash,CUST_5035
+TXN-1086,2026-10-16,South Africa,JHB-01,Apple Juice 1L,Beverages,3,29.99,ZAR,Credit Card,CUST_6146
+TXN-1087,17/10/2026,Botswana,GBE-02,Orange Juice 1L,Beverages,2,25,BWP,Cash,
+TXN-1088,2026-10-18,Namibia,SWP-02,Bottled Water 500ml,Beverages,12,7.5,NAD,Debit Card,CUST_7257
+TXN-1089,October 19 2026,Zambia,NDL-01,Biscuits Cream 200g,Groceries,4,18,ZMW,Mobile Money,CUST_8368
+TXN-1090,2026/10/20,Zimbabwe,HRE-01,Canned Pilchards,Groceries,3,1.9,USD,Cash,N/A
+TXN-1091,2026-10-21,South Africa,PTA-01,Butter Spread 1kg,Dairy,1,94.5,ZAR,Credit Card,CUST_9479
+TXN-1092,22/10/2026,Botswana,GBE-03,Frozen Mixed Veg 500g,Groceries,3,19,BWP,Cash,CUST_1580
+TXN-1093,2026-10-23,Namibia,WDH-01,Toilet Paper 2Ply 4Pack,Household,2,39.99,NAD,Credit Card,CUST_2691
+TXN-1094,October 24 2026,Zambia,LUN-02,Beef Liver 1kg,Meat,1,55,ZMW,Mobile Money,
+TXN-1095,2026/10/25,Zimbabwe,BYO-02,Milk Long Life 500ml,Dairy,4,0.9,USD,Cash,CUST_3702
+TXN-1096,2026-10-26,South Africa,JHB-02,White Bread 700g,Bakery,2,19.99,ZAR,Debit Card,CUST_4813
+TXN-1097,27/10/2026,Botswana,GBE-04,Laundry Soap 1kg,Household,1,28,BWP,Cash,CUST_5924
+TXN-1098,2026-10-28,Namibia,WDH-02,Shampoo Herbal 250ml,Household,2,42.5,NAD,Credit Card,N/A
+TXN-1099,October 29 2026,Zambia,LUN-03,Tea Bags 50s,Groceries,1,22,ZMW,Mobile Money,CUST_7035
+TXN-1100,2026/10/30,Zimbabwe,HRE-02,Bar Soap Green,Household,3,0.75,USD,Cash,CUST_8146
